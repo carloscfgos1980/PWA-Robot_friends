@@ -2,7 +2,7 @@
   "name": "robofriends_redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/carloscfgos1980/PWA-Robot_friends",
+  "homepage": "https://carloscfgos1980.github.io/PWA-Robot_friends",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.6",
     "@testing-library/jest-dom": "^5.17.0",
